@@ -1,0 +1,26 @@
+{
+  "kind": "collectionType",
+  "collectionName": "studenti_nfos",
+  "info": {
+    "singularName": "studenti-nfo",
+    "pluralName": "studenti-nfos",
+    "displayName": "studenti_nfo"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "attributes": {
+    "student_no": {
+      "type": "string"
+    },
+    "first_name": {
+      "type": "string"
+    },
+    "last_name": {
+      "type": "string"
+    },
+    "middle_name": {
+      "type": "string"
+    }
+  }
+}
